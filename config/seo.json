@@ -1,0 +1,15 @@
+{
+  "siteMetadata": {
+    "title": "Tech Study Blog",
+    "author": {
+      "name": "Septian Adi",
+      "summary": "who learn web tech with heart."
+    },
+    "description": "A blog created with no intent to update weekly",
+    "siteUrl": "https://mcseptian.gihub.io/",
+    "language": "en-US",
+    "social": {
+      "twitter": "mcseptian"
+    }
+  }
+}
