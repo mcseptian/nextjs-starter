@@ -6,3 +6,21 @@ span,
 p {
   @apply font-light;
 }
+
+.light{
+  --var-color: white;
+  --var-bgcolor: blue;
+}
+
+.dark {
+  --var-color: black;
+}
+
+p {
+  color: var(--var-color);
+}
+
+h1 {
+  color: var(--var-color);
+  background-color: var(--var-bgcolor);
+}

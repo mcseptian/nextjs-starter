@@ -6,7 +6,7 @@ First, install deps
 ```bash
 npm i
 # or
-yard
+yarn
 ```
 then run the development server:
 
